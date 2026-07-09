@@ -1,0 +1,1 @@
+// CoopVision landing script placeholder.
