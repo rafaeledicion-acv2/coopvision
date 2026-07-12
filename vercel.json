@@ -2,7 +2,12 @@
   "redirects": [
     {
       "source": "/admin",
-      "destination": "https://script.google.com/macros/s/AKfycbwyaFlK4CwjoX3gRLqkIHxYQwyqv1lmnxgY1BTBhP6l5eiOYtx-1RPH0H_cV41eHN_O/exec?page=admin",
+      "destination": "https://script.google.com/macros/s/AKfycbwyaF1K4CwjoX3gRLqkIHxYQwyqv11mnxgY1BTBhP615eiOYtx-1RPH0H_cV41eHN_O/exec?page=admin",
+      "permanent": false
+    },
+    {
+      "source": "/jurado",
+      "destination": "https://script.google.com/macros/s/AKfycbwyaF1K4CwjoX3gRLqkIHxYQwyqv11mnxgY1BTBhP615eiOYtx-1RPH0H_cV41eHN_O/exec?page=jurado",
       "permanent": false
     }
   ]
